@@ -1,5 +1,6 @@
 import React from 'react'
 import Faqs from './Faqs';
+import Main from './Main';
 // import ErrorExample from './tutorial/1-useState/setup/5-useState-counter';
 // import Setup from './tutorial/1-useState/setup/4-useState-object';s
 // import Setup from './tutorial/2-useEffect/setup/1-useEffect-basics'
@@ -19,6 +20,7 @@ function App() {
       {/* <ShortCircuit /> */}
       {/* <Form /> */}
       <Faqs />
+      <Main />
     </div>
   )
 }
